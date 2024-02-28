@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP02023_hw00_Welcome.Tests", "AP02023_hw00_Welcome.Tests\AP02023_hw00_Welcome.Tests.csproj", "{E0FF8339-901A-4645-BC11-112AB0F6005C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP02023_hw00_Welcome", "src\AP02023_hw00_Welcome.csproj", "{5BAD979B-DC95-4424-8A1F-372AD7E950A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0FF8339-901A-4645-BC11-112AB0F6005C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FF8339-901A-4645-BC11-112AB0F6005C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FF8339-901A-4645-BC11-112AB0F6005C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FF8339-901A-4645-BC11-112AB0F6005C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAD979B-DC95-4424-8A1F-372AD7E950A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAD979B-DC95-4424-8A1F-372AD7E950A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAD979B-DC95-4424-8A1F-372AD7E950A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAD979B-DC95-4424-8A1F-372AD7E950A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
